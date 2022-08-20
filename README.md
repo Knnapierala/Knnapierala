@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Krzysiek
-- 👀 I’m looking for my first job as Front-edn developer
+- 👀 I’m looking for my first job as a front-end developer
 - 🌱 I’m currently learning JavaScript, ReactJS, CSS and many others
 - 📫 My LinkedIn profile https://www.linkedin.com/in/krzysztof-napierała-463740149
 
